@@ -1,8 +1,8 @@
 .hero {
     display: flex;
     align-items: center;
-    jutify-content: space-between;
+    justify-content: space-between;
     padding: 60px 10%;
     background-color: #f8f9fa;
-    
+    min-height: 60vh;
 }
