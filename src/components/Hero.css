@@ -54,3 +54,16 @@
     border-radius: 12px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 }
+
+@media (max-width: 768px){
+    .hero{
+        flex-direction: column;
+        text-align: center;
+        padding: 40px 20px;
+    }
+    .hero-text{
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+}
+
