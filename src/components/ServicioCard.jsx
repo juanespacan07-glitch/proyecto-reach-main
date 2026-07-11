@@ -1,5 +1,5 @@
 import './ServicioCard.css';
-//import imagenservice from '../assets/imagenservice.jpg';
+import imagenservice from '../assets/imagenservice.jpg';
 
 function servicioCard(){
     const nombreservicio = "Desarrollo Web";

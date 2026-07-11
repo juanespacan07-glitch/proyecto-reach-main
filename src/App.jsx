@@ -4,11 +4,12 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Fcf from './assets/lol.webp';
 import Inicio from './pages/inicio';
+import Servicios from './pages/servicios';
 
 function App() {
   return(
     <div>
-      <Inicio />
+      <Servicios />
     </div>
   );
 }
