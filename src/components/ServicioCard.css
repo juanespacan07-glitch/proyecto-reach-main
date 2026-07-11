@@ -71,3 +71,19 @@
     font-weight: 800;
     color: #2ed573;
 }
+
+.card-boton {
+    background-color:#1e90ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.card-boton:hover {
+    background-color: #1badf8;
+}
+
